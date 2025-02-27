@@ -6,6 +6,4 @@ This folder includes project like
 
 #password generation app
 
-#increment decrement buttons 
-
 #Quiz app
